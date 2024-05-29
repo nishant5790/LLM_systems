@@ -36,5 +36,5 @@ print(tokenizer.batch_decode(outputs))
 
 # print('\n Saving the model\n')
 # model.save_pretrained_merged("model_l3", tokenizer, save_method = "merged_4bit_forced",)
-# model.push_to_hub_merged("trex5790/model_l3", tokenizer, save_method = "merged_4bit_forced", token = "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")
+# model.push_to_hub_merged("trex5790/model_l3", tokenizer, save_method = "merged_4bit_forced", token = "hf_XXXXX")
 

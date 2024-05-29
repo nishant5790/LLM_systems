@@ -90,4 +90,4 @@ trainer.train()
 
 
 model.save_pretrained("model_l1", tokenizer)
-model.push_to_hub("trex5790/model_l1", tokenizer, token = "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")
+model.push_to_hub("trex5790/model_l1", tokenizer, token = "hf_HXXXXXX")
